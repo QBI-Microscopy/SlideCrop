@@ -1,0 +1,2 @@
+# SlideCrop
+Original SlideCrop code
